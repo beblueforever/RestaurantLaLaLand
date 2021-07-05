@@ -1,0 +1,84 @@
+
+ TOST MENÜLERİ 
+Ürün ID : Sucuklu_Tost_477416804
+Ürün Adı : Sucuklu_Tost
+Ürün Türü : Kahvaltı
+Ürün Fiyatı : 10.0TL
+Kahvaltılık Türü :  Tost
+Sıcaklık : 50.0 C 
+İçindekiler : sucuk, ekmek, yağ.
+Öneriler :  pişirirken yakmamaya dikkat ediniz.
+Çıtır or Yumuşak : yumuşak
+Yağ : az yağlı
+Ekstra İstekler : Yanında dilimlenmiş domates.
+Tost Ekmeğinin Türü : tam tahıllı ekmek
+
+ TOST MENÜLERİ 
+Ürün ID : Kaşarlı_tost_1741841905
+Ürün Adı : Kaşarlı_tost
+Ürün Türü : Kahvaltı
+Ürün Fiyatı : 10.0TL
+Kahvaltılık Türü :  Tost
+Sıcaklık : 50.0 C 
+İçindekiler : ekmek, yağ, kaşar peyniri
+Öneriler :  pişirirken dikkatli olunmalı, yanmamalı. 
+Çıtır or Yumuşak : çıtır
+Yağ : yağlı.
+Ekstra İstekler : yanında dilimlenmiş salatalık.
+Tost Ekmeğinin Türü : tam buğday ekmeği
+
+ OMLET MENÜLERİ 
+Ürün ID : Sucuklu_omlet_1813447046
+Ürün Adı : Sucuklu_omlet
+Ürün Türü : Kahvaltı
+Ürün Fiyatı : 20.0TL
+Kahvaltılık Türü :  omlet
+Sıcaklık : 80.0 C 
+İçindekiler : sucuk, yağ, yumurta
+Öneriler :  Sucukları iyi pişirmeyi unutmayın.
+Sebzeler : yok
+Yağ : az yağlı
+Pişirme Durumu : tavada sotelenecek
+Sucuk or Sosis : sucuk
+
+ OMLET MENÜLERİ 
+Ürün ID : Sebzeli_omlet_1781361417
+Ürün Adı : Sebzeli_omlet
+Ürün Türü : Kahvaltı
+Ürün Fiyatı : 20.0TL
+Kahvaltılık Türü :  omlet
+Sıcaklık : 80.0 C 
+İçindekiler : sebzeler, yumurta, yağ
+Öneriler :  sebzeleri iyice pişiriniz ve sonra yumurtayı kırınız.
+Sebzeler : yeşil biber, kırmızı biber, soğan, domates
+Yağ : az yağlı
+Pişirme Durumu : sotelenerek pişirilecek
+Sucuk or Sosis : yok
+
+ KAHVALTI MENÜLERİ 
+Ürün ID : Soslu_Yeşil_Zeytin__351140744
+Ürün Adı : Soslu_Yeşil_Zeytin_
+Ürün Türü : Kahvaltı
+Ürün Fiyatı : 10.0TL
+Kahvaltılık Türü :  zeytin
+Sıcaklık : 10.0 C 
+İçindekiler : yeşil zeytin, yağlı baharatlı sos
+Öneriler :  açık alanda bırakmayınız, bozulabilir. 
+Kahvaltılık Cinsi : zeytin
+Dilimlenme Durumu  : yok
+Servis Şekli : kasede
+Gramı : 100.0Gram
+
+ KAHVALTI MENÜLERİ 
+Ürün ID : İncir_Reçeli_523511829
+Ürün Adı : İncir_Reçeli
+Ürün Türü : Kahvaltı
+Ürün Fiyatı : 15.0TL
+Kahvaltılık Türü :  reçel
+Sıcaklık : 15.0 C 
+İçindekiler : incir, şeker, limon.
+Öneriler :  şekerlenmemesi için açık alanda bırakmayınız.
+Kahvaltılık Cinsi : reçel
+Dilimlenme Durumu  : yok
+Servis Şekli : kasede
+Gramı : 100.0Gram

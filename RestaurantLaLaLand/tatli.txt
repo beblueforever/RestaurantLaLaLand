@@ -1,0 +1,172 @@
+
+
+ SÜTLÜ TATLILAR  
+Ürün ID : Sütlaç_1458476013
+Ürün Adı : Sütlaç
+Ürün Türü : Tatlı
+Ürün Fiyatı : 15.0 TL 
+Ürün Kalori : 200.0
+Tatlı Türü : Sütlü tatlı
+Tatlı İçeriği : pirinç, şeker, süt, vanilya
+Pişirme Şekli : fırında
+Pişirme Zamanı : 40
+Pişirme Durumu : üstü kızarana dek
+Öneriler : üzerine fındık veya fıstık serpiştirerek sunum yapabilirsini.
+Sos Türü : çikolatalı sos
+Sos İçeriği : eritilmiş çikolata
+Aroma : süt
+Meyve : yok
+Şeker Değeri : 50.0Gram
+Servis Şekli : kasede
+
+ SÜTLÜ TATLILAR  
+Ürün ID : Meyveli_Puding_1669006995
+Ürün Adı : Meyveli_Puding
+Ürün Türü : Tatlı
+Ürün Fiyatı : 20.0 TL 
+Ürün Kalori : 400.0
+Tatlı Türü : Sütlü tatlı
+Tatlı İçeriği :  meyve, süt, şeker, kako
+Pişirme Şekli : ateşin üstünde
+Pişirme Zamanı : 10
+Pişirme Durumu : iyi pişmiş
+Öneriler : meyveleri dilimleyerek sunabilirsiniz.
+Sos Türü : çikolata sosu
+Sos İçeriği : eritilmiş çikolata, çilek, muz.
+Aroma : kako
+Meyve : çilek, muz
+Şeker Değeri : 50.0Gram
+Servis Şekli : kasede
+
+ ŞERBETLİ TATLILAR  
+Ürün ID : Kadayıf_1534098799
+Ürün Adı : Kadayıf
+Ürün Türü : tatlı
+Ürün Fiyatı : 20.0 TL 
+Ürün Kalori : 500.0
+Tatlı Türü : Şerbetli tatlılar
+Tatlı İçeriği : tel kadayıf, su, şeker, fındık, fıstık
+Pişirme Şekli : fırında
+Pişirme Zamanı : 30
+Pişirme Durumu : hafif kızarana kadar
+Öneriler : üzerine fındık ve fıstık rendeleyerek güzel bir sunum sayğalayabilirsiniz.
+Sos Türü : yok
+Sos İçeriği : yok
+Ekstra Malzeme : fındık, fıstık, ceviz
+Şeker Değeri : 60.0
+Fındık  : var
+Servis Şekli : düz taban bir sunum tabağında
+
+ ŞERBETLİ TATLILAR  
+Ürün ID : revani_1954310075
+Ürün Adı : revani
+Ürün Türü : tatlı
+Ürün Fiyatı : 20.0 TL 
+Ürün Kalori : 300.0
+Tatlı Türü : Şerbetli tatlı
+Tatlı İçeriği : un, yumurta, süt, su, şeker, kabartma tozu, fındık, zeytin yağı
+Pişirme Şekli : fırında
+Pişirme Zamanı : 40
+Pişirme Durumu : tam pişmiş
+Öneriler : Kek piştikten sonra fırından çıkarmalısınız aksi halde yumuşak olmaz. 
+Sos Türü : şerbet
+Sos İçeriği : su, şeker
+Ekstra Malzeme : fındık
+Şeker Değeri : 40.0
+Fındık  : var
+Servis Şekli : düz tabanlı sunum tabağı 
+
+ KEKLER 
+Ürün ID : Kremalı_Kek_615761947
+Ürün Adı : Kremalı_Kek
+Ürün Türü : Tatlı
+Ürün Fiyatı : 20.0TL
+Ürün Kalori : 400.0
+Tatlı Türü : Kremalı tatlılar
+Tatlı İçeriği : un, süt, yumurta, şeker, Kremşanti, çikolata
+Pişirme Şekli : fırında
+Pişirme Zamanı : 40
+Pişirme Durumu : iyi pişmiş
+Öneriler : kekimizi süt ile ıslayabilirsiniz. daha yumuşak ve daha tatlı yapacaktır.
+Sos Türü : krema
+Sos İçeriği : süt, kremşanti, eritilmiş çikolata
+Aroma : kako
+Şeker Değeri : 60.0
+Krema : var
+Krema Aroması  : çikolata
+
+ KEKLER 
+Ürün ID : Trileçe_2108860585
+Ürün Adı : Trileçe
+Ürün Türü : Tatlı
+Ürün Fiyatı : 20.0TL
+Ürün Kalori : 400.0
+Tatlı Türü : Kremalı tatlılar
+Tatlı İçeriği : yumurta, toz şeker, un, kabartma tozu, vanilya, süt, tereyağı, krema
+Pişirme Şekli : fırında
+Pişirme Zamanı : 35 dk
+Pişirme Durumu : iyice pişecek
+Öneriler : servis için çeşitli fındık ve fıstıklar kullanabilirsiniz.
+Sos Türü : sütlü sos
+Sos İçeriği : inek sütü, manda sütü, keçi sütü, toz şeker
+Aroma : karamel
+Şeker Değeri : 100.0 gram
+Krema : karamelli krema
+Krema Aroması  : sütlü karamel
+
+ KURABİYELER 
+Ürün ID : Tuzlu_kurabiye_953558316
+Ürün Adı : Tuzlu_kurabiye
+Ürün Türü : tatlı
+Ürün Fiyatı : 15.0 TL 
+Ürün Kalori : 200.0
+Tatlı Türü : Kurabiye
+Tatlı İçeriği : margarin, sıvı yağ, üzüm sirkesi, toz şeker, tuz, kabartma tozu, un.
+Pişirme Şekli : fırında
+Pişirme Zamanı : 20 dk
+Pişirme Durumu : Hafif kızarıncaya dek. 
+Öneriler : İçerisinde kullanılan margarin hamurun daha dayanıklı bir yapıda olmasını sağlarken üzüm sirkesi de daha uzun süre bayatlamadan dayanmasını sağlar. Hazırladığınız kurabiyeleri hava almayan bir saklama kabı ya da ağzı sıkıca kapalı bir cam kavanozun içinde uzunca bir süre saklayabilirsiniz. 
+Sos Türü : yumurtalı sos
+Sos İçeriği : yumurta sarısı, çörek otu
+Aroma : tuzlu
+Tatlı veya Tuzlu : tuzlu
+Şeker Değeri : 30.0gr
+Porsiyon  : 500 gr
+
+ KURABİYELER 
+Ürün ID : Un_Kurabiyesi_593837639
+Ürün Adı : Un_Kurabiyesi
+Ürün Türü : Tatlı
+Ürün Fiyatı : 20.0 TL 
+Ürün Kalori : 300.0
+Tatlı Türü : Kurabiye
+Tatlı İçeriği : yumurta, tereyağı, sıvıyağ, un, pudra şekeri, vanilya, kabartma tozu, buğday nişastası. 
+Pişirme Şekli : fırında
+Pişirme Zamanı : 15 dk
+Pişirme Durumu : tam pişmiş
+Öneriler : Kurabiyelere daha rahat şekil vermek ve pişerken yayılmalarını önlemek için; hamuru buzdolabında daha uzun süre bekletebilirsiniz. 
+Sos Türü : yok
+Sos İçeriği : yok
+Aroma : pudra şekeri
+Tatlı veya Tuzlu : şekerli
+Şeker Değeri : 20.0 gr
+Porsiyon  : 500 gr
+
+ SÜTLÜ TATLILAR  
+Ürün ID : fdjhsffj_674343661
+Ürün Adı : fdjhsffj
+Ürün Türü : fdghgjh
+Ürün Fiyatı : 12.0 TL 
+Ürün Kalori : 123.0
+Tatlı Türü : fgh
+Tatlı İçeriği : xcvbnmöxcvbnmööönmmm
+Pişirme Şekli : ghfkjdfksdl
+Pişirme Zamanı : 2345
+Pişirme Durumu : gfhdjkslş
+Öneriler : hfgjdkjsdklsdşkv
+Sos Türü : gfvhjklş
+Sos İçeriği : fdghjklş
+Aroma : ghfjdklsşi
+Meyve : jkshgkjdhfg
+Şeker Değeri : 123.0Gram
+Servis Şekli : hgfjgkldşsd

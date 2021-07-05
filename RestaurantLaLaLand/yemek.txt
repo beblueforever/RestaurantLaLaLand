@@ -1,0 +1,117 @@
+
+
+ ET MENÜLERİ 
+Ürün ID : Macar_Kebabı__2124372608
+Ürün Adı : Macar_Kebabı_
+Ürün Türü : Ana yemek 
+Ürün Fiyatı : 50.0TL
+Ürün Kalori : 500.0
+Yemek Türü : Etli Yemek
+İçerik : Kuşbaşı et, Bezelye , Patates, Karabiber, Mısır, Patlıcan, Domates, Sarımsak, Kaşar peynir
+Pişirme Şekli  : Fırında, sıcak hava buharında 
+Pişirme Süresi : 40.0
+Pişirme Durumu :  dk 
+Öneriler : Fırının içine bir bardak su eklerseniz, sıcak hava buharında daha güzel pişecektir. 
+Baharatlar : Karabiber, tuz. 
+Sos Türü : Beşamel Sosu 
+Sos İçeriği : Tereyağı, un, süt, tuz, karabiber, muskat cevizi rendesi. 
+Extra Sebzeler : Patlıcan, Biber, domates, sarımsak, patates.
+Ekmek Türü : lavaş ekmek.
+Turşu or Meze : salatalık turşusu.
+
+
+
+ ET MENÜLERİ 
+Ürün ID : Adana_Kebap__2133187092
+Ürün Adı : Adana_Kebap_
+Ürün Türü : Ana yemek 
+Ürün Fiyatı : 50.0TL
+Ürün Kalori : 400.0
+Yemek Türü : Etli yemekler
+İçerik : Kıyma, sarımsak, soğan, maydanoz.
+Pişirme Şekli  : Fırında.
+Pişirme Süresi : 30.0
+Pişirme Durumu :  dk 
+Öneriler : Kebabı yoğurduktan sonra 2-3 saat buz dolabında bekletin ve daha sonra pişirin. 
+Baharatlar : pul biber, karabiber, acı biber salçası.
+Sos Türü : yağlı baharat sosu. 
+Sos İçeriği : Tereyağı, pulbiber, karabiber. 
+Extra Sebzeler : Maydanoz.
+Ekmek Türü : Lavaş
+Turşu or Meze : Acı biber Turşusu 
+
+ TAVUK MENÜLERİ 
+Ürün ID : Sebzeli_Tavuk_Sote__995108050
+Ürün Adı : Sebzeli_Tavuk_Sote_
+Ürün Türü : Ana yemek 
+Ürün Fiyatı : 40.0TL
+Ürün Kalori : 150.0
+Yemek Türü : Tavuklu Yemekler
+İçerik : Tavuk bonfile, yeşil biber, sarı biber, soğan, fasulye, sarımsak.
+Pişirme Şekli  : Tavada sotelenecek.
+Pişirme Süresi : 20.0
+Pişirme Durumu : İyi pişmiş
+Öneriler : Tavukları ekledikten sonran ocağın altını kesinlikle kısmayın ki tavuklar suyunu salmasın. Hem sebzeleri hem tavukları yüksek ateşte hızlı hızlı soteleyin.
+Baharatlar : Pulbiber, beyaz biber, tuz. 
+Sos Türü : Soya sosu.
+Sos İçeriği : Soya fasulyeleri, kavrulmuş tahıl, su ve tuz.
+Mezeler : içine sebze rendelenmiş yoğurtlu meze. 
+Extra Sebzeler : soğan, fasulye, biber, sarımsak. 
+Porsiyon Değeri : 500.0 Gram 
+
+ TAVUK MENÜLERİ 
+Ürün ID : Fırında_Tavuk_But_1065666413
+Ürün Adı : Fırında_Tavuk_But
+Ürün Türü : Ana yemek 
+Ürün Fiyatı : 50.0TL
+Ürün Kalori : 200.0
+Yemek Türü : Tavuklu Yemekler.
+İçerik : Tavuk budu, Soğan, Sarımsak, 
+Pişirme Şekli  : Fırında, buharda. 
+Pişirme Süresi : 35.0
+Pişirme Durumu : Üstü kızarana kadar. 
+Öneriler : Sosunu iyice karıştırın. 
+Baharatlar : Kekik, kimyon, karabiber, pul biber, tuz.
+Sos Türü : Yoğurtlu marine. 
+Sos İçeriği : Yoğurt, kimyon, pul biber, karabiber, kekik, domates salçası, sarımsak, rendelenmiş soğan. 
+Mezeler : salatalık ve biber turşusu.
+Extra Sebzeler : kırmızı kapya biber, soğan. 
+Porsiyon Değeri : 500.0 Gram 
+
+ SEBZE MENÜLERİ 
+Ürün ID : _Leblebili_Bol_Sebzeli_Mücver__1231030241
+Ürün Adı : _Leblebili_Bol_Sebzeli_Mücver_
+Ürün Türü : Ana yemek
+Ürün Fiyatı : 50.0 TL 
+Ürün Kalori : 150.0
+Yemek Türü : Sebzeli yemekler
+İçerik : havuç, kabak, sarımsak, leblebi, yumurta.
+Pişirme Şekli  : Fırında.
+Pişirme Süresi : 30.0
+Pişirme Durumu :  dk
+Öneriler : leblebiyi mutfak robotunda iyice un olana dek çekin. 
+Baharatlar : çörek otu, susam, karabiber, tuz.
+Sos Türü : yoğurtlu sos.
+Sos İçeriği : süzme yoğurt, zeytinyağı, karabiber. 
+Eklenecek Extra Malzemeler : kabartma sosu, leblebi.
+Vitamin Değeri : A, C ve D vitamini içerir.
+Yağ Değeri : 5 Çorba kaşığı zeytinyağı. 
+
+ SEBZE MENÜLERİ 
+Ürün ID : Fırında_Hafif_Gökkuşağı__1485633727
+Ürün Adı : Fırında_Hafif_Gökkuşağı_
+Ürün Türü : Ana yemek 
+Ürün Fiyatı : 50.0 TL 
+Ürün Kalori : 100.0
+Yemek Türü : Sebzeli Yemekler
+İçerik : cherry domates, havuç, bebek patates, haşlanmış tavuk göğsü, köy biberi, kırmızı soğan, tavuk suyu.
+Pişirme Şekli  : fırında.
+Pişirme Süresi : 40.0
+Pişirme Durumu :  dk 
+Öneriler : 190 derece fırında pişiriniz. 
+Baharatlar : toz kırmızı biber, tuz, kekik.
+Sos Türü : zeytin yağlı baharatlı sos.
+Sos İçeriği : kekik, zeytin yağı, limon, tuz, toz kırmızı biber, sarımsak.
+Eklenecek Extra Malzemeler : toz kırmızı biberi isteğe göre arttırabilir veya azaltabilirsiniz.
+Vitamin Değeri : A, D ve C vitamini içerir. 
+Yağ Değeri : 1 su bardağı zeytinyağı içerir. 

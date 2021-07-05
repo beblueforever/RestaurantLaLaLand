@@ -1,0 +1,120 @@
+
+ SICAK İÇECEK MENÜLERİ 
+Ürün ID : Caffe_Latte__1388371815
+Ürün Adı : Caffe_Latte_
+Ürün Türü : İçecek
+Ürün Fiyatı : 10.0 TL 
+Ürün Kalori : 90.0
+İçecek Türü : Sıcak içecekler
+İçecek İçeriği : kahve, süt 
+İçecek Boyutu : Büyük boy
+Ekstra İstekler : Sütü buhar ile ısıtınız.
+Kafein Değeri : 100.0
+Şeker Değeri : 3.0
+Süt Aroması :  tatlı kaşığı
+Materyal : Porselen Bardak
+İçecek Aroması : Sütlü Kahve
+Sıcaklık Derecesi : 90.0 C 
+Porsiyon : ml
+Şurup : Sütlü şekerli şurup. 
+Limon : yok.
+
+ SICAK İÇECEK MENÜLERİ 
+Ürün ID : Siyah_Çay_1700300237
+Ürün Adı : Siyah_Çay
+Ürün Türü : İçecekler
+Ürün Fiyatı : 5.0 TL 
+Ürün Kalori : 50.0
+İçecek Türü : Sıcak içecekler
+İçecek İçeriği : Siyah çay ve su
+İçecek Boyutu : Büyük boy 
+Ekstra İstekler : Şeker
+Kafein Değeri : 50.0
+Şeker Değeri : 3.0 
+Süt Aroması : yok 
+Materyal : ince belli cam bardak
+İçecek Aroması : siyah çay
+Sıcaklık Derecesi : 90.0 C 
+Porsiyon : ml
+Şurup : yok
+Limon : var
+
+ SOĞUK İÇECEK MENÜLERİ 
+Ürün ID : Taze_Sıkılmış_Limonata__215238038
+Ürün Adı : Taze_Sıkılmış_Limonata_
+Ürün Türü : İçecekler
+Ürün Fiyatı : 10.0 TL 
+Ürün Kalori : 40.0
+İçecek Türü : Soğuk içecekler
+İçecek İçeriği : Limon, su, şeker
+İçecek Boyutu : Büyük boy
+Ekstra İstekler : Dilimlenmiş limon
+Kafein Değeri : 0.0
+Şeker Değeri : 10.0
+Süt Aroması : yok
+Materyal : Cam Bardak
+İçecek Aroması : Limon
+Soğukluk Derecesi : 3.0 C 
+Mineral : Na, K 
+Vitamin : A, D ve C
+pH : 5.0
+
+ SOĞUK İÇECEK MENÜLERİ 
+Ürün ID : Milkshake_1047970952
+Ürün Adı : Milkshake
+Ürün Türü : İçecekler
+Ürün Fiyatı : 10.0 TL 
+Ürün Kalori : 111.0
+İçecek Türü : Soğuk İçecekler
+İçecek İçeriği : Süt, ezilmiş buz, çeşitli meyveler, çikolata
+İçecek Boyutu : Büyük boy.
+Ekstra İstekler : Esktra çilek
+Kafein Değeri : 10.0
+Şeker Değeri : 18.0
+Süt Aroması : Var
+Materyal : Büyük boy cam bardak
+İçecek Aroması : Vanilya 
+Soğukluk Derecesi : 1.0 C 
+Mineral : Sodyum, Potasyum
+Vitamin : A, C vitamini 
+pH : 7.0
+
+ GAZLI İÇECEK MENÜLERİ 
+Ürün ID : Limonlu_Gazoz_1495941070
+Ürün Adı : Limonlu_Gazoz
+Ürün Türü : İçecekler
+Ürün Fiyatı : 5.0TL
+Ürün Kalori : 50.0
+İçecek Türü : Gazlı İçecekler
+İçecek İçeriği : Limon, karbonat, şeker
+İçecek Boyutu : Büyük boy
+Ekstra İstekler : Yanında ince dilimlenmiş limon
+Kafein Değeri : 5.0 mg 
+Şeker Değeri : 15.0 mg
+Süt Aroması : yok
+Materyal : Cam bardak
+İçecek Aroması : limon
+Soğukluk Derecesi : 1.0 C 
+Servis Şekli : Buzlu
+İçindeki Mineraller : Sodyum, potasyum
+Porsiyon Değeri : 330 ml 
+
+ GAZLI İÇECEK MENÜLERİ 
+Ürün ID : Fanta_845690997
+Ürün Adı : Fanta
+Ürün Türü : İçecek
+Ürün Fiyatı : 5.0TL
+Ürün Kalori : 100.0
+İçecek Türü : Soğuk içecekler
+İçecek İçeriği : Portakal, likon, mandalina
+İçecek Boyutu : orta boy
+Ekstra İstekler : ince dilimlenmiş portakal dilimi
+Kafein Değeri : 40.0 Gram 
+Şeker Değeri : 40.0 Gram 
+Süt Aroması : yok
+Materyal : ince cam bardak
+İçecek Aroması : portakal, mandalina, limon
+Soğukluk Derecesi : 1.0 C 
+Servis Şekli : İnce cam bardak
+İçindeki Mineraller : Na, K
+Porsiyon Değeri : 300  ml 
